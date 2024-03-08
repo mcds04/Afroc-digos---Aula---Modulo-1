@@ -1,9 +1,15 @@
-:stars: Afroc-digos---Aula---Modulo-1 :stars:
-:stars: Aulas do Projeto Afrocódigo Professor :technologist: Felipe de Moraes- Ecossistema PYTHON
+ :rocket: Afrocodigos---Aula---Modulo-1 :rocket: 
 
-:blush: [afrocódigos]
+:stars: [Aulas do Projeto Afrocódigo] 
 
-:anger:Objetivo da aula
+
+:technologist: Professor  Felipe de Moraes- :seedling:Ecossistema :snake:PYTHON:snake:
+
+
+:stars: [afrocódigos] :stars:
+
+
+:anger: [Objetivo da aula] :anger:
 
 • Sua história e ascensão no meio das linguagens que já existem;
 
