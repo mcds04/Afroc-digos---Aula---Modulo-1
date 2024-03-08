@@ -1,3 +1,6 @@
+![image](https://github.com/mcds04/Afroc-digos---Aula---Modulo-1/assets/100251166/a6ace2ee-cf2f-4405-a74e-d4aa77bf9d0f)
+
+ 
  :rocket: Afrocodigos---Aula---Modulo-1 :rocket: 
 
 :stars: [Aulas do Projeto Afrocódigo] 
